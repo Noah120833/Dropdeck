@@ -18,7 +18,6 @@ Perfect for developers, designers, and anyone who wants fast access to important
 
 ## 📥 Download
 
-sha256:6043e90d2626aa6ba11575768182435243108d62279f8962af077e38b0304b9d
 No installation needed — just download and run.
 
 ---
