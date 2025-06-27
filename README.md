@@ -18,7 +18,7 @@ Perfect for developers, designers, and anyone who wants fast access to important
 
 ## 📥 Download
 
-https://github.com/Noah120833/deinrepo/releases/latest/download/DropDeck.exe
+
 No installation needed — just download and run.
 
 ---
